@@ -1,5 +1,7 @@
 # Laegna Complex Number
 
+![NearCoverComplex](Gfx/NearCoverComplex.png)
+
 Components:
 - Digit.
 - Digit sequence.
@@ -425,6 +427,8 @@ Q:
 A:
 
 # Laegna Complex Numbers and the Geometry of Symmetry
+
+![ComplexSimp](Gfx/ComplexSimp.png)
 
 ## Introduction
 
