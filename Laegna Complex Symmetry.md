@@ -1715,3 +1715,11 @@ and geometry creates meaning.
 <br>
 
 ![LaegnaComplexNumber](Gfx/LaegnaComplexNumber.jpeg)
+
+<br>
+
+Or, perhaps more spiritually:
+
+![LaeComplex3](Gfx/LaeComplex3.webp)
+
+As spirit floats above ranks and hierachies, and soul is the invariant energy of class. The space and spirit flows in time.
