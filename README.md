@@ -1,3 +1,7 @@
+![Magic Art](Gfx/MagicArt.jpg)
+
+<br>
+
 # Laegna limit
 
 I said everything you know from me, unless you do the combinatorics:
