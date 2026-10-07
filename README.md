@@ -38,5 +38,11 @@ Laegna number:
 Welcome onboard to Laegna Ship:
 - Where exterior directions matter, you do not move yourself:
   - you move your inertial system.
- 
+
+<br>
+
+![Ending Art](Gfx/EndingArt.jpg)
+
 It's not shipping it's spaceshipping the quality.
+
+<br>
