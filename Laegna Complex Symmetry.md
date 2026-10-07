@@ -2,6 +2,8 @@
 
 ![NearCoverComplex](Gfx/NearCoverComplex.png)
 
+<br>
+
 Components:
 - Digit.
 - Digit sequence.
@@ -429,6 +431,8 @@ A:
 # Laegna Complex Numbers and the Geometry of Symmetry
 
 ![ComplexSimp](Gfx/ComplexSimp.png)
+
+<br>
 
 ## Introduction
 
@@ -1705,3 +1709,9 @@ structure creates relation,
 relation creates geometry,
 and geometry creates meaning.
 ```
+
+---
+
+<br>
+
+![LaegnaComplexNumber](Gfx/LaegnaComplexNumber.jpeg)
