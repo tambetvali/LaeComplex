@@ -1039,6 +1039,12 @@ The finite octave of music, the continuous space of real numbers, the two-dimens
 
 CoPilot's earlier article:
 
+<br>
+
+![](Gfx/LaeSimpB.png)
+
+<br>
+
 # Continuous and Discrete Rank Space
 ## Unifying Combinatorics, Octaves, Infinity and Complexity in Laegna Mathematics
 
@@ -1414,6 +1420,12 @@ Now rank becomes linear even when complexity grows exponentially.
 ---
 
 # Continuous Combinatorics
+
+<br>
+
+![](Gfx/LaeSimpA.jpg)
+
+<br>
 
 Suppose discrete combinatorics gives:
 
