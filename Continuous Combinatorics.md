@@ -2,6 +2,8 @@
 
 <br>
 
+***LaeComplex: this repo starts to introduce 2nd-order laegna, the one which uses base-16 rather than base-4. As initial introductions to base-4, *it's mathematical syntax might lack expressibility and strictness, so readers who can work on their own are supported, others work on their own risks and ventures, not mine: it's open source world*.***
+
 The following is somewhat draft, but also explaining why continuous systems give continuous ranks of log-4 lin exp-4 or log-2 lin exp-2; where discrete ranks for same levels are log-2 lin exp-2 is combinatorics of log-1 lin exp-1, the linear source.
 
 Natural number:
