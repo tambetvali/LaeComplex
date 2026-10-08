@@ -1,3 +1,5 @@
+![](Gfx/LaeSimp2.png)
+
 The following is somewhat draft, but also explaining why continuous systems give continuous ranks of log-4 lin exp-4 or log-2 lin exp-2; where discrete ranks for same levels are log-2 lin exp-2 is combinatorics of log-1 lin exp-1, the linear source.
 
 Natural number:
@@ -440,6 +442,10 @@ Two channel, two dimensional:
 - Ranks decide spheres, recursive multiplication - octave space is rank space, positive octaves => linear, integral 1, integral 2..; if numbers are used *where each integral is projected to linear space by taking equal order differential, calculating, then taking the integral back on result ..playing with ranks we see symmetries of curved spaces, and that second order rank is roughly real numbers against naturals, and infinity order is higher, rank is more, order is more, and infinity degree equals to octave based first-rank space.
 
 ---
+
+![](Gfx/LaeSimp1.webp)
+
+<br>
 
 CoPilot:
 
