@@ -1,5 +1,7 @@
 ![](Gfx/LaeSimp2.png)
 
+<br>
+
 The following is somewhat draft, but also explaining why continuous systems give continuous ranks of log-4 lin exp-4 or log-2 lin exp-2; where discrete ranks for same levels are log-2 lin exp-2 is combinatorics of log-1 lin exp-1, the linear source.
 
 Natural number:
@@ -1704,3 +1706,7 @@ The full rank system becomes an infinite octave extending inward toward infinite
 Thus discrete and continuous mathematics cease to be separate worlds.
 
 They become two coordinate systems describing the same reality.
+
+<br>
+
+![](Gfx/LaeSimp3.png)
